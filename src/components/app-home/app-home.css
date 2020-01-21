@@ -1,0 +1,9 @@
+.tinder-container {
+    position: relative;
+}
+
+app-tinder-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
